@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import time
-import Handdedectormodule as htm
+import Handdetectormodule as htm
 
 
 pTime = 0
